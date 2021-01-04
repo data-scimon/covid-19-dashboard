@@ -5,8 +5,9 @@ account: simonsjen
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3440610
-bundleId: 4054266
+bundleId: 4058206
 url: https://simonsjen.shinyapps.io/covid19/
-when: 1609710089.32566
+when: 1609796328.29259
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: covid-19-dashboard.R
